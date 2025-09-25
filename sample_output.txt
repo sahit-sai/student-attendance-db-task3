@@ -1,0 +1,9 @@
+Expected Results:
+
+- SELECT * shows all rows and columns
+- WHERE filters rows by conditions
+- LIKE 'P%' matches names starting with P
+- BETWEEN 18 AND 22 selects ages in that range
+- ORDER BY sorts rows (ASC default, DESC for reverse)
+- LIMIT reduces number of rows
+- DISTINCT removes duplicates from results
